@@ -1,4 +1,4 @@
-# Letsbonkfun-bundler
+# Bonkfun-bundler
 An open-source #Solana #Bundler for #letsbonk.fun that enables you to create a token and package it with 12 purchases.
 
 Introducing the Open-Source letsbonkfun Bundler – the ultimate tool for seamless bundling on letsbonk.fun, complete with advanced profile creation and anti-bubble map features!
