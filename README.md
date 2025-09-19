@@ -24,4 +24,4 @@ Create token & Buy bundle: https://explorer.jito.wtf/bundle/69b7f510c22322396955
 - Ceaning wallet: Sell token & close ATA & refund Sol back to fund wallet.
 
 ## Contact Info
-[Telegram](https://t.me/idioRusty)
+[Telegram](https://t.me/microswarlord)
